@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.xaml](./CS/DXGrid_GridLayout/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXGrid_GridLayout/MainPage.xaml.vb))**
+* [MainPage.xaml.cs](./CS/DXGrid_GridLayout/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXGrid_GridLayout/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to Save Grid Layout to and Restore It from a memory stream
 
 
